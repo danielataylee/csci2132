@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This is a sample
 I am in the master branch
 Adding more stuff from master 
+=======
+This is a sample to test git repository
+I am in the minion branch
+>>>>>>> Daniela2
