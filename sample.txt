@@ -1,1 +1,2 @@
 This is a sample to test git repository
+I am in the minion branch
